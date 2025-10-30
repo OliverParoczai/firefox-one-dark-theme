@@ -1,0 +1,58 @@
+{
+    "manifest_version": 2,
+    "name": "Atom One Dark Theme",
+    "version": "1.0",
+  
+    "description": "The Atom One Dark theme for Firefox.",
+  
+    "theme": {
+      "colors": {
+        "bookmark_text":                "#abb2bf",
+          
+        "button_background_active":     "#0000",
+        "button_background_hover":      "#0000",
+          
+        "icons":                        "#abb2bf",
+        "icons_attention":              "#528bff",
+          
+        "frame":                        "#21252b",
+        "frame_inactive":               "#21252b",
+          
+        "ntp_background":               "#282c34",
+        "ntp_text":                     "#abb2bf",
+          
+        "popup":                        "#282c34",
+        "popup_border":                 "#21252b",
+        "popup_highlight":              "#2c313a",
+        "popup_highlight_text":         "#fff",
+        "popup_text":                   "#abb2bf",
+  
+        "sidebar":                      "#282c34",
+        "sidebar_border":               "#474a4f",
+        "sidebar_highlight":            "#2c313a",
+        "sidebar_highlight_text":       "#fff",
+        "sidebar_text":                 "#abb2bf",
+  
+        "tab_background_separator":     "#181a1f",
+        "tab_background_text":          "#abb2bf",
+        "tab_line":                     "#528bff",
+        "tab_loading":                  "#528bff",
+        "tab_selected":                 "#282c34",
+        "tab_text":                     "#fff",
+  
+        "toolbar":                      "#282c34",
+        "toolbar_bottom_separator":     "#14161b",
+        "toolbar_field":                "#21252b",
+        "toolbar_field_border":         "#181a1f",
+        "toolbar_field_border_focus":   "#528bff",
+        "toolbar_field_focus":          "#21252b",
+        "toolbar_field_highlight":      "#3e4451",
+        "toolbar_field_highlight_text": "#fff",
+        "toolbar_field_separator":      "#181a1f",
+        "toolbar_field_text":           "#abb2bf",
+        "toolbar_field_text_focus":     "#fff",
+        "toolbar_top_separator":        "#181a1f",
+        "toolbar_vertical_separator":   "#181a1f"
+      }
+    }
+  }
